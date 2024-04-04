@@ -27,7 +27,7 @@ This app was developed during [Jonas Schmedtmann's JavaScript Course](https://ww
 
 ### Usage
 
-1. [Click Here To Open Application](https://Bankist-Online-Banking-Application-abuoelezz.vercel.app/). 
+1. [Click Here To Open Application](https://bankist-online-banking-application-abuoelezz.vercel.app/). 
 2. Log in to your account using your username and PIN.
 
    **For the test ( Username: ma - Password: 1111 ) or  ( Username: aa - Password: 2166 )**
