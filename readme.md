@@ -2,7 +2,7 @@
 
 Bankist is an online banking application that allows users to conveniently manage their finances anywhere. This project includes HTML, CSS, and JavaScript files that together create the user interface and functionality of the banking application.
 
-This app was developed during [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/share/101Wfe3@WNfGGz11Oi9aTz8k04tFZTOeWvzLQXZsSOnuHZXk7n3xF_sBJQTf5GT05dyygfpFow==/).
+This application was developed during [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/share/101Wfe3@WNfGGz11Oi9aTz8k04tFZTOeWvzLQXZsSOnuHZXk7n3xF_sBJQTf5GT05dyygfpFow==/).
 
 ### Features
 
