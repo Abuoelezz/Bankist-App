@@ -1,4 +1,4 @@
-# Bankist - Online Banking Application
+# Bankist Application
 
 Bankist is an online banking application that allows users to conveniently manage their finances anywhere. This project includes HTML, CSS, and JavaScript files that together create the user interface and functionality of the banking application.
 
